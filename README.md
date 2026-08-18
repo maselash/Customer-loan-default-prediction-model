@@ -1,4 +1,4 @@
-** This project is a continuation of the Czech bank analysis project.
+# This project is a continuation of the Czech bank analysis project.
 
 The objective was to build 3 machine learning models and see which would best predict loan default.
 This model would be used in a bank's approval process and flag high risk applications before loan is approved
