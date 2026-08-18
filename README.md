@@ -1,5 +1,6 @@
-# This project is a continuation of the Czech bank analysis project.
+# Customer Loan Default Prediction Model
 
+This project is a continuation of the Czech bank analysis project.
 The objective was to build 3 machine learning models and see which would best predict loan default.
 This model would be used in a bank's approval process and flag high risk applications before loan is approved
   It was crucial that the information used in the model would be accurate. We did not use any transaction data that occurred AFTER the loan was issued. Everything we feed the model must be information the bank would have had at the point of making the lending decision.
